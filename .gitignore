@@ -1,0 +1,4 @@
+#es un archivo .gitignore
+#ignora carpeta build
+/build/
+/.DS_Store/
